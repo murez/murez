@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on New Version of A check in system
+Blog : [ムえ's Blog](http://murez.site)
+- 🔭 I’m currently working on new version of a check in system
 - 🌱 I’m currently learning Algorithms
 - 💬 Ask me about what time is it
 - 📫 How to reach me: admin@murez.site
