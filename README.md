@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on New Version of A check in system
+- 🌱 I’m currently learning Algorithms
+- 💬 Ask me about what time is it
+- 📫 How to reach me: admin@murez.site
+- ⚡ Fun fact: There is no Fun fact
