@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Blog : [ムえ's Blog](http://murez.site)
-- 🔭 I’m currently working on new version of a check in system
+- 🔭 I’m currently working on Super Resolution
 - 🌱 I’m currently learning Algorithms
 - 💬 Ask me about what time is it
 - 📫 How to reach me: admin@murez.site
