@@ -21,3 +21,7 @@ Blog : [ムえ's Blog](http://murez.site)
 - 💬 Ask me about what time is it
 - 📫 How to reach me: admin@murez.site
 - ⚡ Fun fact: There is no Fun fact
+
+
+![bio](https://github-readme-stats.vercel.app/api?username=murez&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=murez&layout=compact)
