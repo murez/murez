@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Blog : [ムえ's Blog](http://murez.site)
-- 🔭 I’m currently working on Super Resolution
-- 🌱 I’m currently learning Algorithms
+Blog : [ムえ's Blog](https://murez.cloud/)
+- 🔭 I’m currently working on AI training jobs Scheduler
+- 🌳 Researching area: HPC, MLSys, Scheduler, AI+HPC, AI4Sicence
+- 🌱 I’m currently learning Database, System
 - 💬 Ask me about what time is it
 - 📫 How to reach me: admin@murez.site
 - ⚡ Fun fact: There is no Fun fact
