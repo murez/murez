@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 
 Blog : [ムえ's Blog](https://murez.cloud/)
-- 🔭 I’m currently working on AI training jobs Scheduler
+- 🔭 I’m currently working on AI training jobs Scheduler / A special version of NeRF
 - 🌳 Researching area: HPC, MLSys, Scheduler, AI+HPC, AI4Sicence
-- 🌱 I’m currently learning Database, System
+- 🌱 I’m currently learning Database, Linux Kernel, CUDA Programing,
 - 💬 Ask me about what time is it
-- 📫 How to reach me: admin@murez.site
-- ⚡ Fun fact: There is no Fun fact
+- 📫 How to reach me: ottozsy@outlook.com
+- ⚡ Fun fact: I a little knowledge of CV/CG/ML but I want to be a HPC Guy.
+- 😄 Pronouns: He/Him
 
 
 ![bio](https://github-readme-stats.vercel.app/api?username=murez&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000)
