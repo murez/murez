@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Blog : [ムえ's Blog](https://murez.cloud/)
+Blog : [ムえ's Blog](https://murez.site/)
 - 🔭 I’m currently working on AI training jobs Scheduler / A special version of NeRF
 - 🌳 Researching area: HPC, MLSys, Scheduler, AI+HPC, AI4Sicence
 - 🌱 I’m currently learning Database, Linux Kernel, CUDA Programing,
